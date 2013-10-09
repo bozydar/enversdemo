@@ -1,4 +1,4 @@
 enversdemo
 ==========
 
-Sample application in Grails 2.1 with Hibernate Envers
+Sample application in Grails 2.3 with Hibernate Envers
